@@ -10,7 +10,7 @@ For more information go to >> **[https://oswos.com/induction-motor/](https://osw
 
 
 ### h3
-msldsmdö
+Because [inductions motors](https://oswos.com/induction-motor/) are often used for washing mashins 
 
 ## h3
 scdlsmacdmsm

@@ -9,6 +9,7 @@ dcascd,scd
 For more information go to >> **[https://oswos.com/induction-motor/](https://oswos.com/induction-motor/)**
 
 
+
 ### h3
 Because [inductions motors](https://oswos.com/induction-motor/) are often used for washing mashins 
 

@@ -1,3 +1,7 @@
 theme: minima
 
-title: [Yoah Yoah Yoah]
+title: Yoah Yoah Yoah
+
+header_pages:
+  - about.md
+  - portfolio.md

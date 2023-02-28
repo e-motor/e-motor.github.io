@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Poser
+title: kata
+permalink: /kata/
 description: WTF Go GO
 ---
 

@@ -1,8 +1,10 @@
 theme: minima
 
-# title: Yoah Yoah Yoah
+title: Electric Motors
 
 header_pages:
-- about.md
 - kata.md
 - motors.md
+
+footer_pages:
+- about.md

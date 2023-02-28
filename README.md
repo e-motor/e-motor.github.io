@@ -1,3 +1,15 @@
+
+---
+layout: "Motor"
+title: 
+slug: 
+modified: 
+description: "la la la"
+author: 
+seo.type: BlogPosting
+image: 
+---
+
 # Electric Motors
 cösalmö lsc lksdks 
 
